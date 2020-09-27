@@ -1,0 +1,66 @@
+header {
+   color: #fff;
+   background-color: #a52a2a; 
+   font-size: 35px;
+   text-align: center;
+   font-weight: 600;
+   margin-top: 30px;
+   margin-bottom: 30px;
+}
+
+.img-sunset {
+    margin-right: 30px;
+}
+
+article {
+    font-size: 18px;
+}
+
+.img-cars {
+    display: flex;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.yellow-car {
+    border: 3px dashed black;
+
+}
+
+.white-car {
+    border: 3px dashed black;
+    margin-left: 5px;
+}
+
+.blue-car {
+    border: 3px dashed black;
+    margin-left: 5px;
+}
+
+.black-white-car {
+    border: 3px dashed black;
+    margin-left: 5px;
+}
+
+.red-car {
+    border: 3px dashed black;
+    margin-left: 5px;
+}
+
+footer {
+   color: #fff;
+   background-color: #000000; 
+   font-size: 20px;
+   text-align: center;
+   margin-top: 35px;
+   margin-bottom: 35px;
+}
+
+span {
+    color: #0000ff;
+}
+
+ 
+
